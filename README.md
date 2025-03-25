@@ -85,7 +85,7 @@ The module will continue to operate, causing interference until you turn off the
 
 - **Legal Warning**: The use of signal jammers is illegal in most countries and can interfere with communication systems. **BlackJam** is for **educational purposes** only, and you should ensure you're following local laws and regulations.
 - **Overheating**: Running the **nRF24L01+** at high power settings for extended periods can cause the module to overheat. Consider adding a **capacitor** for better stability.
-- **Not for Bluetooth Jamming**: While **BlackJam** can cause interference in the 2.4 GHz band, it is not a specialized Bluetooth or BLE jammer. Its effectiveness may vary.
+- **Not So Powerful**: While **BlackJam** can cause interference in the 2.4 GHz band, it is not a specialized Bluetooth or BLE jammer at full jamming because its based on Arduino and a Single NRF24.
 
 ---
 
