@@ -1,2 +1,3 @@
-# BlackJam
-BlackJam Project "Soon!" 🔜 | Bluetooth Jammer for Arduino Uno &amp; Arduino Nano 🥶 | Powerful &amp; Portable &amp; Cheap! ⌚ | Coming soon you skids! (Im a skid also😭) | BlackJam™
+# BlackJam | Arduino Jamming 
+Start:
+- Black Jam is a bluetooth jammer for the Arduino Uno & The Arduino Nano that is made (skidded) by Zorikos3 on Discord!
