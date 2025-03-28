@@ -26,7 +26,7 @@
 
 ---
 
-## Pin Connections
+## Pin Connections Uno
 
 ### nRF24L01+ → Arduino Connections:
 | **nRF24L01+ Pin** | **Arduino Pin** |
@@ -35,6 +35,24 @@
 | VCC               | 3.3V            |
 | CE                | D9              |
 | CSN               | D10             |
+| SCK               | D13             |
+| MOSI              | D11             |
+| MISO              | D12             |
+| IRQ               | Not used        |
+
+---
+
+---
+
+## Pin Connections Nano
+
+### nRF24L01+ → Arduino Connections:
+| **nRF24L01+ Pin** | **Arduino Pin** |
+|-------------------|-----------------|
+| GND               | GND             |
+| VCC               | 3.3V            |
+| CE                | D5              |
+| CSN               | D2              |
 | SCK               | D13             |
 | MOSI              | D11             |
 | MISO              | D12             |
