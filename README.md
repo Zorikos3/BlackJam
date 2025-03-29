@@ -40,6 +40,9 @@
 | MISO              | D12             |
 | IRQ               | Not used        |
 
+Pinout Image:
+![NanoPinout](Soon.png)
+
 ---
 
 ---
@@ -58,6 +61,7 @@
 | MISO              | D12             |
 | IRQ               | Not used        |
 
+Pinout Image:
 ![NanoPinout](Nano_Pinout.png)
 
 ---
