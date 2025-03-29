@@ -21,7 +21,7 @@
 
 - **Arduino Uno** or **Arduino Nano**
 - **nRF24L01+ Module**
-- **10µF Capacitor** (optional, for stabilizing power)
+- **10µF Capacitor** (optional, for stabilizing power) (put on nrf24's VCC and GND pin)
 - **Wires for Connections**
 
 ---
