@@ -58,6 +58,8 @@
 | MISO              | D12             |
 | IRQ               | Not used        |
 
+![NanoPinout](Nano_Pinout.png)
+
 ---
 
 ## Software Requirements
