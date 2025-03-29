@@ -41,6 +41,7 @@
 | IRQ               | Not used        |
 
 Pinout Image:
+
 ![NanoPinout](Soon.png)
 
 ---
@@ -62,6 +63,7 @@ Pinout Image:
 | IRQ               | Not used        |
 
 Pinout Image:
+
 ![NanoPinout](Nano_Pinout.png)
 
 ---
